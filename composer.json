@@ -10,13 +10,7 @@
             "name": "Richard McCarthy",
             "email": "mccarthy.richard@gmail.com"
         }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mccarthyr/ScraperApp.git"
-        }
-    ],
+    ]
     "require": {
 	"php": ">=5.3.2"
     },
