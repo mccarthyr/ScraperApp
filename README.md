@@ -1,9 +1,9 @@
 # ScraperApp
 
-## 1 - How to install the application from GitHub
-## 2 - How to install the application via Composer (Packaglist)
-## 3 - How to run the application
-## 4 - How to run the unit tests
+1. How to install the application from GitHub
+2. How to install the application via Composer (Packaglist)
+3. How to run the application
+4. How to run the unit tests
 
 ## 1 - How to install the application from Github
 Open up a terminal and type the following:
